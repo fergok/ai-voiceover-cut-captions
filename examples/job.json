@@ -1,0 +1,10 @@
+{
+  "vo": "voiceover.mp3",
+  "ranges": [[0, 5.8], [17.4, 60.2]],
+  "captions_from": 5.8,
+  "captions": [
+    "here's how I did it",
+    "my gifts are always",
+    "the safe ones"
+  ]
+}

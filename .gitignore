@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# your ads: voiceovers, transcripts and renders stay on your computer
+ads/
+out/
+tx/
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.m4a
